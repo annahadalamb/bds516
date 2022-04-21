@@ -1,0 +1,11 @@
+name: "BDS516"
+output_dir: "."
+navbar:
+  title: "BDS516 Anna Lamb"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Lamb"
+      href: anna.html
